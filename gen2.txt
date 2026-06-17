@@ -1,0 +1,1 @@
+perl -e 'print "she his hers he " x 6553600' > texto_100mb.txt
